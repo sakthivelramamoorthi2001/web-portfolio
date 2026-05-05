@@ -4,8 +4,7 @@ const LINKEDIN_URL =
 const TWITTER_URL = "";
 const INSTAGRAM_URL = "https://www.instagram.com/sakthi_choco_";
 const EMAIL_URL = "sakthivel.ramamoorthi2001@gmail.com";
-const RESUME_URL =
-  "https://surgtest.s3.amazonaws.com/media/course_img/Sakthivel_ramamoorthi_TRarE32.pdf";
+const RESUME_URL = "/Sakthivel_Ramamoorthi_2026.pdf";
 
 export {
   GITHUB_URL,

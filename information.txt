@@ -1,0 +1,102 @@
+Here’s your **complete resume in clean TXT format**, optimized and structured properly:
+
+---
+
+**Sakthivel Ramamoorthi**
+B.E. Computer Science and Engineering
+📧 [sakthivel.ramamoorthi2001@gmail.com](mailto:sakthivel.ramamoorthi2001@gmail.com) | 📞 +91 8270139430
+🔗 Portfolio | GitHub: sakthivelramamoorthi2001
+
+---
+
+### **Professional Summary**
+
+Software Engineer with 4+ years of experience building scalable web applications using React.js and Node.js. Strong expertise in microservices architecture, real-time communication systems (WebRTC, WebSockets), and enterprise-grade admin panels with role-based access control (RBAC).
+
+Experienced in developing audio/video calling platforms using Janus WebRTC Server, along with secure REST APIs and authentication systems. Proficient in PostgreSQL, Prisma ORM, and modern frontend technologies.
+
+Additionally skilled in AI-driven feature development using Python and FastAPI, including chatbots, semantic search, and RAG-based systems integrated with OpenAI and vector databases.
+
+---
+
+### **Technical Skills**
+
+**Frontend:** React.js, Redux, Tailwind CSS
+**Backend:** Node.js, Express.js
+**Database:** PostgreSQL, Prisma ORM
+**Languages:** JavaScript (ES6+), TypeScript
+**Real-Time:** WebSockets, WebRTC (Janus Server)
+**Authentication:** JWT, Role-Based Access Control (RBAC)
+**Tools & Platforms:** Git, Husky, PM2, Vercel, Storybook
+**Integrations:** SDK Development (JavaScript), Third-party APIs
+**AI & Data:** Python, FastAPI, OpenAI API, DataStax Vector DB, RAG, Semantic Search
+
+---
+
+### **Professional Experience**
+
+**Contus Tech – Chennai (Hybrid)**
+*Software Engineer | 2024 – 2026*
+
+* Developed scalable real-time communication systems using WebRTC, WebSockets, and microservices architecture
+* Built chat and audio/video calling features using Janus WebRTC Server
+* Handled backend services, WebSocket communication, and full system integration
+
+**VGTS – Chennai (Hybrid)**
+*Software Engineer | 2022 – 2024*
+
+* Built scalable admin panel applications using the PERN stack
+* Implemented role-based access control (RBAC) and dynamic UI rendering
+* Developed secure REST APIs and optimized database performance
+
+---
+
+### **Projects**
+
+Masdr (BBO-like Application)
+Developed a real-time call management platform designed to handle complex communication workflows without relying on traditional chat or media-heavy interactions. The system focused on efficient call orchestration, enabling users to manage ongoing sessions with minimal latency and high reliability.
+
+Implemented advanced features such as call transfer and participant invitation into live calls, ensuring seamless session continuity. Built scalable backend services and event-driven workflows using WebSockets and microservices architecture to handle concurrent users and real-time state synchronization.
+
+Psychic Cloud
+Built an AI-powered communication platform integrating audio/video calling with an OpenAPI-based chat system, enabling real-time interaction between users and AI-driven assistants. The platform was designed to simulate conversational experiences similar to AstroTalk-style applications.
+
+Integrated a Retrieval-Augmented Generation (RAG) based chatbot using OpenAI and vector databases to deliver context-aware and intelligent responses. Designed backend services using Node.js and FastAPI, ensuring efficient handling of AI inference, chat workflows, and real-time communication.
+
+Mortimer Green (v1)
+Developed a NEET/medical learning platform focused on providing structured educational content and online examination capabilities for students preparing for competitive exams. The system emphasized usability and accessibility for large-scale student engagement.
+
+Implemented core features such as test creation, timed assessments, and result evaluation using a scalable backend with Node.js and PostgreSQL. Designed the platform to support future enhancements like analytics and adaptive learning workflows.
+
+SurgTest (v2)
+Enhanced the Mortimer Green platform by introducing advanced monitoring and analytics capabilities to improve exam integrity and student performance tracking. Focused on delivering a more robust and controlled online examination environment.
+
+Implemented features such as automated progress analytics, screen-based time validation, and improved proctoring mechanisms. Optimized backend logic and database queries to handle high-volume test data efficiently while maintaining accuracy and performance.
+
+Vee2Care
+Developed a comprehensive school management system adopted by 30+ institutions, aimed at digitizing administrative and academic workflows. The platform streamlined operations across multiple modules, improving efficiency for schools and staff.
+
+Implemented features including automated report card generation, certificate management (TC/PT), student ranking systems, fee tracking, and transport (bus) management. Designed scalable APIs and database structures to support multi-school usage with consistent performance.
+
+Turtle Egg Collection System
+Built a geo-based data tracking system to monitor turtle egg collection and burial locations across multiple regions. The system was designed to ensure accurate data capture and reporting for environmental tracking purposes.
+
+Resolved complex timezone inconsistencies by standardizing all incoming data to Indian Standard Time (IST), ensuring uniformity across geographically distributed inputs. Developed backend services to handle location data, time normalization, and reporting dashboards.
+
+Curium & Trust Websites
+Developed medical-related web platforms including a doctor portfolio system and a trust management website for handling village funding and donation activities. Focused on delivering clean UI and reliable backend systems.
+
+Implemented features such as profile management, service listings, and donation tracking systems. Built responsive frontend interfaces with React and integrated secure backend APIs for data management and user interactions.
+
+Umitrix HRMS (Own Product)
+Designed and developed a full-scale HRMS platform independently, covering end-to-end employee lifecycle management. The system was built to handle real-world organizational needs with scalability and flexibility.
+
+Implemented modules including employee management, attendance tracking, payroll processing, and role-based access control (RBAC). Managed complete system architecture including frontend, backend, and deployment infrastructure, ensuring production readiness.
+---
+
+### **Additional Work**
+
+* Built and published **credencial-dev (NPM package)** for automated credential generation (usernames, passwords, emails) with reusable and optimized functions
+* Worked on 9+ projects including real-time communication systems, AI-driven platforms, and scalable admin panels
+
+---

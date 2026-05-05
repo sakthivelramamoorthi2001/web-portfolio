@@ -29,8 +29,8 @@ const projects = i18n.PORTFOLIO_SECTION.PROJECTS;
           </a>
           <div class="description">
             <span class="title">{project.name}</span>
-            <p class="body">{project.description}</p>
-            <div class="technologies">
+            <p class="body" set:html={project.description}></p>
+           <div class="technologies" style={{display:"none"}}>
               {
                 project.technologies.map((technology) => (
                   <picture class="technology">
@@ -61,7 +61,7 @@ const projects = i18n.PORTFOLIO_SECTION.PROJECTS;
                 <ExternalIcon width={26} height={26} />
               </a>}
             </div>
-          </div>
+          </div> 
         </div>
       ))
     }

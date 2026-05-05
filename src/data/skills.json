@@ -10,7 +10,6 @@
       "imagePath": "/images/css.webp",
       "alt": "css"
     },
-
     {
       "name": "JavaScript",
       "imagePath": "/images/js.webp",
@@ -22,19 +21,9 @@
       "alt": "ts"
     },
     {
-      "name": "React js",
+      "name": "React.js",
       "imagePath": "/images/react.png",
       "alt": "react js"
-    },
-    {
-      "name": "Vue",
-      "imagePath": "/images/vue.webp",
-      "alt": "vue"
-    },
-    {
-      "name": "Tailwind",
-      "imagePath": "/images/tailwind.webp",
-      "alt": "tailwind"
     },
     {
       "name": "Redux",
@@ -42,48 +31,32 @@
       "alt": "Redux js"
     },
     {
-      "name": "Husky",
-      "imagePath": "/images/husky.png",
-      "alt": "Husky js"
+      "name": "Tailwind",
+      "imagePath": "/images/tailwind.webp",
+      "alt": "tailwind"
     }
   ],
   "cardsDataBackend": [
     {
-      "name": "Nodejs",
+      "name": "Node.js",
       "imagePath": "/images/nodejs.webp",
       "alt": "nodejs"
     },
     {
-      "name": "Nestjs",
-      "imagePath": "/images/nestjs.webp",
-      "alt": "nestjs"
-    },
-    {
-      "name": "TypeScript",
-      "imagePath": "/images/ts.webp",
-      "alt": "ts"
-    },
-    {
-      "name": "Express",
+      "name": "Express.js",
       "imagePath": "/images/express.png",
-      "alt": "Express"
+      "alt": "express"
     },
     {
-      "name": "PostgreSql",
+      "name": "PostgreSQL",
       "imagePath": "/images/postgresql.webp",
       "alt": "postgresql"
     },
     {
-      "name": "MongoDB",
-      "imagePath": "/images/mongo.webp",
-      "alt": "mongodb"
-    },
-    {
-      "name": "MySql",
-      "imagePath": "/images/mysql.webp",
-      "alt": "mysql"
-    },
-    { "name": "DSA", "imagePath": "/images/dsa.svg", "alt": "ds" }
+      "name": "Prisma ORM",
+      "imagePath": "/images/prisma.svg",
+      "alt": "prisma"
+    }
   ],
   "cardsDataOthers": [
     {
@@ -92,18 +65,51 @@
       "alt": "git"
     },
     {
-      "name": "Postman",
-      "imagePath": "/images/postman.webp",
-      "alt": "postman"
+      "name": "Husky",
+      "imagePath": "/images/husky.png",
+      "alt": "husky"
     },
-    { "name": "Prisma", "imagePath": "/images/prisma.svg", "alt": "prisma" },
-    { "name": "Eslint", "imagePath": "/images/eslint.svg", "alt": "eslint" },
     {
-      "name": "Prettier",
-      "imagePath": "/images/prettier.svg",
-      "alt": "prettier"
+      "name": "PM2",
+      "imagePath": "/images/docker.webp",
+      "alt": "pm2"
     },
-    { "name": "Vite", "imagePath": "/images/vite.svg", "alt": "vite" }
+    { 
+      "name": "Vercel", 
+      "imagePath": "/images/vite.svg", 
+      "alt": "vercel" 
+    },
+    {
+      "name": "Storybook",
+      "imagePath": "/images/react.png",
+      "alt": "storybook"
+    }
   ],
-  "cardsDataLearning": []
+  "cardsDataLearning": [
+    {
+      "name": "Python",
+      "imagePath": "/images/dsa.svg",
+      "alt": "python"
+    },
+    {
+      "name": "FastAPI",
+      "imagePath": "/images/nestjs.webp",
+      "alt": "fastapi"
+    },
+    {
+      "name": "WebRTC",
+      "imagePath": "/images/js.webp",
+      "alt": "webrtc"
+    },
+    {
+      "name": "WebSockets",
+      "imagePath": "/images/nodejs.webp",
+      "alt": "websockets"
+    },
+    {
+      "name": "OpenAI / RAG",
+      "imagePath": "/images/dsa.svg",
+      "alt": "openai"
+    }
+  ]
 }
